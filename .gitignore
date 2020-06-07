@@ -5,12 +5,14 @@
 .tox
 .installed.cfg
 *.egg-info
-.tox
-.idea
+.tox/
+.idea/
 **/.idea/tasks.xml
 **/.idea/workspace.xml
 
 # specific to the given folder structure
 Data
 Examples
+
+#
 
