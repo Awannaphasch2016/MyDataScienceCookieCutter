@@ -3,6 +3,7 @@
   "Data": "Data",
   "External": "External",
   "Processed": "Processed",
+  "Interim": "Interim",
   "Raw": "Raw",
   "Examples_dir": "Basic",
   "BestPractices": "BestPractices",
@@ -24,5 +25,14 @@
   "Features": "Features",
   "Preprocessings": "Preprocessings",
   "Visualizations": "Visualizations",
-  "Test_dir": "Test_dir"
+  "Test_dir": "Test",
+  "Utilities": "Utilities",
+  "Docs": "Docs",
+
+  "project_name": "no name please select project name",
+  "author": "Anak Wannphaschayong",
+  "email": "awannaphasch2016@fau.edu",
+  "medium_account": "@awannaphasch2016",
+  "github_repo": "https://github.com/Awannaphasch2016",
+  "youtube_channel": "Anak Wannaphaschaiyong"
 }

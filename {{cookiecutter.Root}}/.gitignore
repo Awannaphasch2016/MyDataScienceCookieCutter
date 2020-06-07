@@ -1,0 +1,13 @@
+# general
+.mypy_cache
+.pytest_cache
+.tox
+.installed.cfg
+*.egg-info
+.tox
+.idea
+
+# specific to the given folder structure
+Data
+Examples
+
