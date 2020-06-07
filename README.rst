@@ -42,13 +42,13 @@ Here is the best roam research walkthrough:https://www.youtube.com/watch?v=vxOff
 
 About the author
 ------------------
-Author: {{cookiecutter.author}}
+Author: Anak Wannaphaschaiyong
 
-Email: {{cookiecutter.email}}
+Email: awannaphasch2016@fau.edu
 
-follow me on medium: account =  {{cookiecutter.medium_account}}
+follow me on medium: account =  @awannphasch2016
 
-follow me on github: {{cookiecutter.github_repo}}
+follow me on github: https://github.com/Awannaphasch2016
 
-follow me on youtube: {{cookiecutter.youtube_channel}}
+follow me on youtube: Anak Wannaphaschaiyong
 
