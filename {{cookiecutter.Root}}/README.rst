@@ -52,6 +52,9 @@ I created a duplication of github project used in the video for you to practice:
 
 Folder Usercase Explaination
 ------------------------------
+
+global_parameters.py contains all global parameters. Also, you may want to consider having path to specific folder as global variable.
+
 {{cookiecutter.Data}}
     : contains all data.
     : data has 4 child folders: External, Processed, Interim, Raw
@@ -168,6 +171,7 @@ TODO
 - learn about click and add it here
     figure out why uploading to readthedocs show sphinx_click (Extension error: Could not import extension sphinx_click.ext (exception: No module named 'click')) I did put sphinx_click in docs/requirements.txt
 - test that docs/sources/conf.py work as expected with this folder strucutre optimize for data science project.
+- add planning folder -> introduce the way of using typing (code) and PlanUML (uml) to plan project.
 - make [testenv:docs] compatible with window cmd
 - make [testenv:docs] work for all requested shell
 - learn about MANIFEST and add it here
