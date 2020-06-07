@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff4efe95-f712-4934-842f-5fa2331b5ca9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Examples/Basic/logger.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notebooks/Documents/data_structure_documetation.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Planning.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sources/Preparations/Data/RedditCrawler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sources/Preparations/Data/pushshift_library.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sources/Visualizations/visualize_performance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_dir/test_pushshift_library.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utilities/Decorators/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utilities/Decorators/logging_decorators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utilities/Decorators/timer_decorators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utilities/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utilities/control_limit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utilities/declared_typing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utilities/saver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utilities/test_conditions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/planning.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.Root}}/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.Root}}/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/{{cookiecutter.Root}}/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.Root}}/README.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +73,7 @@
       <workItem from="1590480653833" duration="571000" />
       <workItem from="1590518218388" duration="756000" />
       <workItem from="1590521211094" duration="88000" />
-      <workItem from="1591377062910" duration="22985000" />
+      <workItem from="1591377062910" duration="23656000" />
     </task>
     <task id="LOCAL-00001" summary="First draft of data science folder structure + Documentation + CI.">
       <created>1591552994749</created>
@@ -96,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591552994750</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="there was strange behavior when merged before previous. This commit fixed all that mess.">
+      <created>1591553500885</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591553500885</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,17 +108,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First draft of data science folder structure + Documentation + CI." />
-    <option name="LAST_COMMIT_MESSAGE" value="First draft of data science folder structure + Documentation + CI." />
+    <MESSAGE value="there was strange behavior when merged before previous. This commit fixed all that mess." />
+    <option name="LAST_COMMIT_MESSAGE" value="there was strange behavior when merged before previous. This commit fixed all that mess." />
   </component>
   <component name="WindowStateProjectService">
     <state x="919" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591377447041">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="919" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1591377447041" />
-    <state x="378" y="10" key="CommitChangelistDialog2" timestamp="1591553444053">
+    <state x="378" y="10" key="CommitChangelistDialog2" timestamp="1591553500052">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="378" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1591553444053" />
+    <state x="378" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1591553500052" />
     <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1591547274033">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -142,14 +136,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="489" y="85" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591490112054" />
-    <state width="537" height="446" key="SwitcherDM" timestamp="1591553273865">
+    <state width="537" height="446" key="SwitcherDM" timestamp="1591553727720">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="537" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1591553273865" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1591553178536">
+    <state width="537" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1591553727720" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1591553504841">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591553178536" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591553504841" />
     <state x="463" y="144" width="609" height="536" key="find.popup" timestamp="1591549114952">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
